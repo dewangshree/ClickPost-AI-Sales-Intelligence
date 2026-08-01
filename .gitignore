@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+clickpost-ai/venv/
+clickpost-ai/.venv/
+
+# Environment variables
+.env
+*.env
+
+# Output files
+output/
+clickpost-ai/output/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
