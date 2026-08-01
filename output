@@ -1,1 +1,27 @@
 
+Rank,Company,Website,Industry,Score,Priority,Confidence,Reason,Recommendation
+1,Chubbies,https://www.chubbiesshorts.com,Apparel & Lifestyle,90,High,0.7,"Returns complaints detected, Returns complaints detected, Returns complaints detected",Immediate outreach recommended. Strong buying intent.
+2,Rothy's,https://rothys.com,Sustainable Footwear,90,High,0.7,"Returns complaints detected, Returns complaints detected, Shipping complaints detected",Immediate outreach recommended. Strong buying intent.
+3,Caraway,https://www.carawayhome.com,Kitchenware,90,High,0.8,"Returns complaints detected, Returns complaints detected, Returns complaints detected",Immediate outreach recommended. Strong buying intent.
+4,Brooklinen,https://www.brooklinen.com,Home & Bedding,60,Medium,0.8,"Customer Complaints detected, Returns complaints detected, Customer Complaints detected, Customer Complaints detected",Nurture account. Moderate buying intent.
+5,Outdoor Voices,https://www.outdoorvoices.com,Activewear,60,Medium,0.8,"Customer Complaints detected, Customer Complaints detected, Returns complaints detected, Customer Complaints detected",Nurture account. Moderate buying intent.
+6,Parade Underwear,https://yourparade.com,Apparel,45,Low,0.8,"Expansion detected, Returns complaints detected",Monitor for future signals.
+7,Feastables,https://feastables.com,Food & Beverage,35,Low,0.8,"Expansion detected, Funding detected",Monitor for future signals.
+8,Poppi,https://drinkpoppi.com,Beverage,35,Low,0.7,"Expansion detected, Hiring detected",Monitor for future signals.
+9,True Classic,https://www.trueclassictees.com,Apparel,30,Low,0.8,"Customer Complaints detected, Customer Complaints detected, Customer Complaints detected",Monitor for future signals.
+10,Olipop,https://drinkolipop.com,Beverage,30,Low,0.8,"Technology Stack detected, Technology Stack detected, Technology Stack detected",Monitor for future signals.
+11,Liquid Death,https://liquiddeath.com,Beverage,30,Low,0.7,"Expansion detected, Expansion detected",Monitor for future signals.
+12,Graza,https://graza.co,Food,30,Low,0.6,Returns complaints detected,Monitor for future signals.
+13,Vuori,https://vuoriclothing.com,Activewear,20,Low,0.8,Hiring detected,Monitor for future signals.
+14,Kosas,https://kosas.com,Beauty,20,Low,0.4,Funding detected,Monitor for future signals.
+15,Tushy,https://hellotushy.com,Personal Care,20,Low,0.6,"Marketing detected, Marketing detected",Monitor for future signals.
+16,Solo Stove,https://www.solostove.com,Outdoor & Lifestyle,15,Low,0.6,Expansion detected,Monitor for future signals.
+17,Blueland,https://www.blueland.com,Sustainable Home,15,Low,0.4,Expansion detected,Monitor for future signals.
+18,Our Place,https://fromourplace.com,Kitchenware,15,Low,0.4,Expansion detected,Monitor for future signals.
+19,Ridge Wallet,https://ridge.com,Accessories,10,Low,0.2,Customer Complaints detected,Monitor for future signals.
+20,Native Deodorant,https://www.nativecos.com,Personal Care,10,Low,0.6,Customer Complaints detected,Monitor for future signals.
+21,Magic Spoon,https://magicspoon.com,Food,0,Low,0.0,No relevant information found in search results.,Monitor for future signals.
+22,Manscaped,https://www.manscaped.com,Personal Care,0,Low,0.0,,Monitor for future signals.
+23,Beardbrand,https://www.beardbrand.com,Grooming,0,Low,0.0,No relevant signals found in search results.,Monitor for future signals.
+24,Jones Road Beauty,https://jonesroadbeauty.com,Beauty,0,Low,0.0,,Monitor for future signals.
+25,Momofuku Goods,https://shop.momofuku.com,Food,0,Low,0.0,"No evidence of funding, hiring, expansion, shipping complaints, returns complaints, customer complaints, technology stack, or competitors.",Monitor for future signals.
