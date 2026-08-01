@@ -128,8 +128,7 @@ Written to `output/` after a run:
 | `signals.json` | Raw signal extraction per account — signal type, description, evidence snippet, source URL, confidence |
 | `top5_outreach.json` | LinkedIn message + follow-up email for each of the Top 5 accounts, grounded in their specific captured signal |
 
-> Sample run outputs aren't checked into this repo (API keys are required and outputs shouldn't be faked). Run the pipeline once with your own keys to generate a live sample set — [`MEMO.md`](./MEMO.md) documents the reasoning independent of any single run.
-
+>Sample outputs generated from the prototype are included under clickpost-ai/output/.
 ## Design notes & known limitations
 
 - **Scoring is intentionally rule-based, not an LLM judge.** The brief calls for a scoring system a sales leader can trust or push back on — a fixed, inspectable weight table (see `scoring_service.py`) is easier to defend than an opaque model score. Full reasoning in `MEMO.md`.
