@@ -1,0 +1,504 @@
+[
+    {
+        "company": "Chubbies",
+        "signals": [
+            {
+                "signal_type": "Returns",
+                "description": "Chubbies may be considering Loop Returns & Exchanges for efficient returns management",
+                "evidence": "Mentioned in comparison article as a potential solution for returns management.",
+                "source_url": "https://fixmystore.com/shopify-apps/compare/loop-returns-exchanges-vs-redo"
+            },
+            {
+                "signal_type": "Returns",
+                "description": "Chubbies may be considering Redo for returns management",
+                "evidence": "Mentioned in comparison article as a potential solution for returns management.",
+                "source_url": "https://www.aftership.com/compare/redo"
+            },
+            {
+                "signal_type": "Returns",
+                "description": "Chubbies may be considering AfterShip Returns for returns management",
+                "evidence": "Mentioned in comparison article as a potential solution for returns management.",
+                "source_url": "https://www.aftership.com/compare/loop-returns"
+            }
+        ],
+        "confidence": 0.7,
+        "reasoning": "Comparison articles suggest Chubbies is considering various returns management solutions.",
+        "sources": [
+            "https://fixmystore.com/shopify-apps/compare/loop-returns-exchanges-vs-redo",
+            "https://www.aftership.com/compare/redo",
+            "https://www.aftership.com/compare/loop-returns"
+        ]
+    },
+    {
+        "company": "Rothy's",
+        "signals": [
+            {
+                "signal_type": "Returns complaints",
+                "description": "Rothy's may be using AfterShip Returns, which is being compared to Loop Returns and Redo.",
+                "evidence": "Mentioned in AfterShip's comparison articles.",
+                "source_url": "https://www.aftership.com/compare/loop-returns"
+            },
+            {
+                "signal_type": "Returns complaints",
+                "description": "Rothy's may be using AfterShip Returns, which is being compared to Redo.",
+                "evidence": "Mentioned in AfterShip's comparison articles.",
+                "source_url": "https://www.aftership.com/compare/redo"
+            },
+            {
+                "signal_type": "Shipping complaints",
+                "description": "Rothy's may be experiencing shipping complaints, as AfterShip provides data on top holiday shipping complaints.",
+                "evidence": "Mentioned in AfterShip's data report.",
+                "source_url": "https://www.aftership.com/ru/data/data-report-top-consumer-complaints-of-holiday-shipping"
+            }
+        ],
+        "confidence": 0.7,
+        "reasoning": "Rothy's is mentioned in AfterShip's comparison articles and data report, indicating potential use of AfterShip Returns and experience with shipping complaints.",
+        "sources": [
+            "https://www.aftership.com/compare/loop-returns",
+            "https://www.aftership.com/compare/redo",
+            "https://www.aftership.com/ru/data/data-report-top-consumer-complaints-of-holiday-shipping"
+        ]
+    },
+    {
+        "company": "Brooklinen",
+        "signals": [
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Poor customer service and delayed shipping",
+                "evidence": "Customer reported not hearing back for 5 days after inquiring about order status.",
+                "source_url": "https://www.trustpilot.com/review/www.brooklinen.com"
+            },
+            {
+                "signal_type": "Returns Complaints",
+                "description": "Issues with returns and exchanges",
+                "evidence": "Customer reported difficulties with returns and exchanges.",
+                "source_url": "https://ca.trustpilot.com/review/www.brooklinen.com?page=2"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Poor customer experience",
+                "evidence": "Customer reported a 'shady' experience with the company.",
+                "source_url": "https://www.trustpilot.com/review/www.brooklinen.com"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Unresolved complaints",
+                "evidence": "Customer reported that their complaint was not resolved.",
+                "source_url": "https://www.bbb.org/us/ny/brooklyn/profile/linens/brooklinen-inc-0121-163344/complaints"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Multiple customer complaints across different platforms.",
+        "sources": [
+            "https://www.trustpilot.com/review/www.brooklinen.com",
+            "https://ca.trustpilot.com/review/www.brooklinen.com?page=2",
+            "https://www.bbb.org/us/ny/brooklyn/profile/linens/brooklinen-inc-0121-163344/complaints"
+        ]
+    },
+    {
+        "company": "Solo Stove",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Availability on multiple online marketplaces",
+                "evidence": "Product listed on Home Depot and Tropik Green websites.",
+                "source_url": "https://www.homedepot.com/p/Solo-Stove-Bonfire-Stand-Shelter-2-0-Bundle-19-5-in-x-19-5-in-x-17-5-in-Outdoor-Stainless-Steel-Wood-Burning-Fire-Pit-BONSD-2-0-SHTR/324722788"
+            }
+        ],
+        "confidence": 0.6,
+        "reasoning": "Availability on multiple online marketplaces suggests expansion efforts.",
+        "sources": [
+            "https://www.homedepot.com/p/Solo-Stove-Bonfire-Stand-Shelter-2-0-Bundle-19-5-in-x-19-5-in-x-17-5-in-Outdoor-Stainless-Steel-Wood-Burning-Fire-Pit-BONSD-2-0-SHTR/324722788",
+            "https://www.tropikgreen.fr/articles/solo-stove-titan-rchaud-bois-anti-fume-en-acier-pour-randonneurs--s1-E379427659"
+        ]
+    },
+    {
+        "company": "Vuori",
+        "signals": [
+            {
+                "signal_type": "Hiring",
+                "description": "Hiring for Marketplace Manager role at Zalando",
+                "evidence": "Job listing on bebee.com",
+                "source_url": "https://bebee.com/gb/jobs/marketplace-manager-zalando-vuori-inc-london-england-united-kingdom--theirstack-699888250"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Strong evidence of hiring for a specific role.",
+        "sources": [
+            "https://bebee.com/gb/jobs/marketplace-manager-zalando-vuori-inc-london-england-united-kingdom--theirstack-699888250"
+        ]
+    },
+    {
+        "company": "Outdoor Voices",
+        "signals": [
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Customer reported poor product quality and toxic materials",
+                "evidence": "Customer review on Trustpilot",
+                "source_url": "https://www.trustpilot.com/review/outdoorvoices.com"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Customer reported poor product performance and wicking issues",
+                "evidence": "Customer review on Trustpilot",
+                "source_url": "https://www.trustpilot.com/review/outdoorvoices.com"
+            },
+            {
+                "signal_type": "Returns Complaints",
+                "description": "Customer reported issues with returns and refunds",
+                "evidence": "Customer review on Trustpilot",
+                "source_url": "https://www.trustpilot.com/review/outdoorvoices.com"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Customer reported poor customer experience and support",
+                "evidence": "Customer review on Trustpilot",
+                "source_url": "https://www.trustpilot.com/review/outdoorvoices.com"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Multiple customer complaints across various categories.",
+        "sources": [
+            "https://www.trustpilot.com/review/outdoorvoices.com"
+        ]
+    },
+    {
+        "company": "Blueland",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Possible international expansion to Greenland, previously known as Red, White, and Blueland",
+                "evidence": "Mentioned in Wikipedia article about Donald Trump's presidency.",
+                "source_url": "https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump"
+            }
+        ],
+        "confidence": 0.4,
+        "reasoning": "Weak signal of possible international expansion, but no concrete evidence.",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump"
+        ]
+    },
+    {
+        "company": "True Classic",
+        "signals": [
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Low TrustScore of 2.7 out of 5",
+                "evidence": "Displayed on Trustpilot review page.",
+                "source_url": "https://ca.trustpilot.com/review/fathersonsclothing.com"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Low TrustScore of 2.5 out of 5",
+                "evidence": "Displayed on Trustpilot review page.",
+                "source_url": "https://ca.trustpilot.com/review/fathersonsclothing.com"
+            },
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Low TrustScore of 2 out of 5",
+                "evidence": "Displayed on Trustpilot review page.",
+                "source_url": "https://www.trustpilot.com/review/marcivo.com?page=2"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Low TrustScores indicate potential customer complaints.",
+        "sources": [
+            "https://ca.trustpilot.com/review/fathersonsclothing.com",
+            "https://www.trustpilot.com/review/marcivo.com?page=2"
+        ]
+    },
+    {
+        "company": "Feastables",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Expanded to Singapore",
+                "evidence": "Mentioned in Business Intelligence article about Feastables' presence in Singapore.",
+                "source_url": "https://businessintelligence.mo/2024/07/05/feastables-chocolate-by-youtuber-mr-beast-now-in-singapore"
+            },
+            {
+                "signal_type": "Funding",
+                "description": "Generated over $10 million in its first few months",
+                "evidence": "Mentioned in Financemagnates article about MrBeast's business ventures.",
+                "source_url": "https://www.financemagnates.com/trending/mrbeast-hits-1-billion-the-youtuber-who-got-rich-to-give-it-away"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Strong evidence of expansion and funding.",
+        "sources": [
+            "https://businessintelligence.mo/2024/07/05/feastables-chocolate-by-youtuber-mr-beast-now-in-singapore",
+            "https://www.financemagnates.com/trending/mrbeast-hits-1-billion-the-youtuber-who-got-rich-to-give-it-away"
+        ]
+    },
+    {
+        "company": "Kosas",
+        "signals": [
+            {
+                "signal_type": "Funding",
+                "description": "No direct funding signal found, but listed as a brand in AI Investment and M&A Tracker",
+                "evidence": "Mentioned in AI Investment and M&A Tracker as a brand.",
+                "source_url": "https://www.thefashionlaw.com/generative-artificial-intelligence-investment-and-ma-tracker"
+            }
+        ],
+        "confidence": 0.4,
+        "reasoning": "Listed as a brand in AI Investment and M&A Tracker, but no direct funding signal found.",
+        "sources": [
+            "https://www.thefashionlaw.com/generative-artificial-intelligence-investment-and-ma-tracker"
+        ]
+    },
+    {
+        "company": "Olipop",
+        "signals": [
+            {
+                "signal_type": "Technology Stack",
+                "description": "Using AfterShip Returns for returns management",
+                "evidence": "Mentioned in AfterShip Returns VS Loop Returns comparison article.",
+                "source_url": "https://www.aftership.com/compare/loop-returns"
+            },
+            {
+                "signal_type": "Technology Stack",
+                "description": "Using Redo for returns management",
+                "evidence": "Mentioned in AfterShip Returns VS Redo comparison article.",
+                "source_url": "https://www.aftership.com/compare/redo"
+            },
+            {
+                "signal_type": "Technology Stack",
+                "description": "Using Loop Returns & Exchanges for returns management",
+                "evidence": "Mentioned in Loop Returns & Exchanges vs Redo comparison article.",
+                "source_url": "https://fixmystore.com/shopify-apps/compare/loop-returns-exchanges-vs-redo"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Strong evidence of using AfterShip, Redo, and Loop Returns for returns management.",
+        "sources": [
+            "https://www.aftership.com/compare/loop-returns",
+            "https://www.aftership.com/compare/redo",
+            "https://fixmystore.com/shopify-apps/compare/loop-returns-exchanges-vs-redo"
+        ]
+    },
+    {
+        "company": "Magic Spoon",
+        "signals": [],
+        "confidence": 0.0,
+        "reasoning": "No relevant information found in search results.",
+        "sources": [
+            "https://audioboom.com/channels/4997224.rss"
+        ]
+    },
+    {
+        "company": "Liquid Death",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Partnership with e.l.f. Cosmetics",
+                "evidence": "Collaboration with a beauty brand, indicating expansion into new markets.",
+                "source_url": "https://www.instagram.com/p/DSvxkp2gRv9"
+            },
+            {
+                "signal_type": "Expansion",
+                "description": "Availability at Vitamin Shoppe",
+                "evidence": "Product availability at a retail store, indicating expansion into new channels.",
+                "source_url": "https://www.instagram.com/vitaminshoppe_brentwood"
+            }
+        ],
+        "confidence": 0.7,
+        "reasoning": "Limited evidence of expansion into new markets and channels.",
+        "sources": [
+            "https://www.instagram.com/p/DSvxkp2gRv9",
+            "https://www.instagram.com/vitaminshoppe_brentwood"
+        ]
+    },
+    {
+        "company": "Poppi",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Appealing to a sober-curious audience, indicating potential expansion into new markets.",
+                "evidence": "Mentioned in recent article about Shirley Temple flavors.",
+                "source_url": "https://www.usatoday.com/story/money/food/2026/01/08/shirley-temples-mocktail-drink-2026-popularity/88051208007"
+            },
+            {
+                "signal_type": "Hiring",
+                "description": "Employees rated Poppi 4.2 out of 5 for work life balance, 4.5 for culture and values and 4.3 for career opportunities.",
+                "evidence": "Mentioned in recent Glassdoor review.",
+                "source_url": "https://www.glassdoor.com/Reviews/Poppi-Reviews-E6658907.htm"
+            }
+        ],
+        "confidence": 0.7,
+        "reasoning": "Some evidence of expansion and hiring, but limited information available.",
+        "sources": [
+            "https://www.usatoday.com/story/money/food/2026/01/08/shirley-temples-mocktail-drink-2026-popularity/88051208007",
+            "https://www.glassdoor.com/Reviews/Poppi-Reviews-E6658907.htm"
+        ]
+    },
+    {
+        "company": "Graza",
+        "signals": [
+            {
+                "signal_type": "Returns complaints",
+                "description": "Does not accept returns due to perishable nature of product",
+                "evidence": "Mentioned in FAQs section.",
+                "source_url": "https://www.graza.co/pages/faqs"
+            }
+        ],
+        "confidence": 0.6,
+        "reasoning": "Limited evidence of returns policy, but no other signals found.",
+        "sources": [
+            "https://www.graza.co/pages/faqs"
+        ]
+    },
+    {
+        "company": "Ridge Wallet",
+        "signals": [
+            {
+                "signal_type": "Customer Complaints",
+                "description": "No clear evidence of customer complaints, but a user is asking for Ridge Wallet users in a forum.",
+                "evidence": "User inquiry in a forum thread.",
+                "source_url": "https://rolltidebama.com/threads/any-ridge-wallet-users.590731"
+            }
+        ],
+        "confidence": 0.2,
+        "reasoning": "Limited evidence of customer engagement, but no clear complaints.",
+        "sources": [
+            "https://rolltidebama.com/threads/any-ridge-wallet-users.590731"
+        ]
+    },
+    {
+        "company": "Manscaped",
+        "signals": [],
+        "confidence": 0.0,
+        "reasoning": "",
+        "sources": []
+    },
+    {
+        "company": "Native Deodorant",
+        "signals": [
+            {
+                "signal_type": "Customer Complaints",
+                "description": "Rated 'Bad' with 1.7/5 on Trustpilot",
+                "evidence": "Mentioned in Trustpilot review.",
+                "source_url": "https://www.trustpilot.com/review/nativecos.com"
+            }
+        ],
+        "confidence": 0.6,
+        "reasoning": "Customer complaints on Trustpilot.",
+        "sources": [
+            "https://www.trustpilot.com/review/nativecos.com"
+        ]
+    },
+    {
+        "company": "Beardbrand",
+        "signals": [],
+        "confidence": 0.0,
+        "reasoning": "No relevant signals found in search results.",
+        "sources": []
+    },
+    {
+        "company": "Caraway Home, Inc.",
+        "signals": [
+            {
+                "signal_type": "Returns complaints",
+                "description": "Customer had trouble getting help with a teapot and was frustrated with the return process.",
+                "evidence": "Mentioned in BBB Complaints.",
+                "source_url": "https://www.bbb.org/us/ny/new-york/profile/home-accessories/caraway-home-inc-0121-87153437/complaints"
+            },
+            {
+                "signal_type": "Returns complaints",
+                "description": "Reserves the right to limit returns when suspecting fraudulent behavior.",
+                "evidence": "Mentioned in Return Policy.",
+                "source_url": "https://www.carawayhome.com/returns"
+            },
+            {
+                "signal_type": "Returns complaints",
+                "description": "Bulk purchases are considered final sale and not eligible for returns.",
+                "evidence": "Mentioned in FAQs.",
+                "source_url": "https://www.carawayhome.com/faqs"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Multiple complaints and restrictive return policy.",
+        "sources": [
+            "https://www.bbb.org/us/ny/new-york/profile/home-accessories/caraway-home-inc-0121-87153437/complaints",
+            "https://www.carawayhome.com/returns",
+            "https://www.carawayhome.com/faqs"
+        ]
+    },
+    {
+        "company": "Our Place",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Designed wok in collaboration with New York Times bestselling author",
+                "evidence": "Collaboration with a well-known author suggests expansion of product line or brand partnerships.",
+                "source_url": "https://www.instagram.com/p/CczFk95rAPz"
+            }
+        ],
+        "confidence": 0.4,
+        "reasoning": "Limited evidence of expansion, but collaboration with a well-known author is a positive signal.",
+        "sources": [
+            "https://www.instagram.com/p/CczFk95rAPz"
+        ]
+    },
+    {
+        "company": "Jones Road Beauty",
+        "signals": [],
+        "confidence": 0.0,
+        "reasoning": "",
+        "sources": []
+    },
+    {
+        "company": "Tushy",
+        "signals": [
+            {
+                "signal_type": "Marketing",
+                "description": "Promotion of Tushy products through coupon aggregators and social media channels",
+                "evidence": "Mentioned in recent article about effective instruction manuals and promotion of products.",
+                "source_url": "https://blog.hubspot.com/service/effective-owners-manuals"
+            },
+            {
+                "signal_type": "Marketing",
+                "description": "Tushy promo code verified on coupon aggregator website",
+                "evidence": "Mentioned on coupon aggregator website as a verified promo code.",
+                "source_url": "https://scrubbawashbag.valuecom.com"
+            }
+        ],
+        "confidence": 0.6,
+        "reasoning": "Limited evidence of marketing efforts, but clear promotion of Tushy products.",
+        "sources": [
+            "https://blog.hubspot.com/service/effective-owners-manuals",
+            "https://scrubbawashbag.valuecom.com"
+        ]
+    },
+    {
+        "company": "Momofuku Goods",
+        "signals": [],
+        "confidence": 0.0,
+        "reasoning": "No evidence of funding, hiring, expansion, shipping complaints, returns complaints, customer complaints, technology stack, or competitors.",
+        "sources": [
+            "https://www.tiktok.com/@taylorjackzen/video/7604562133770128653"
+        ]
+    },
+    {
+        "company": "Parade Underwear",
+        "signals": [
+            {
+                "signal_type": "Expansion",
+                "description": "Closing down operations",
+                "evidence": "Parade posted a statement on Instagram announcing its closure.",
+                "source_url": "https://www.marieclaire.com/fashion/parade-underwear-closing-explained"
+            },
+            {
+                "signal_type": "Returns complaints",
+                "description": "Visible and noticeable lines beneath clothing",
+                "evidence": "Customer review mentioning issues with product quality.",
+                "source_url": "https://www.ireviews.com/parade-underwear-review"
+            }
+        ],
+        "confidence": 0.8,
+        "reasoning": "Weak evidence of returns complaints and expansion.",
+        "sources": [
+            "https://www.marieclaire.com/fashion/parade-underwear-closing-explained",
+            "https://www.ireviews.com/parade-underwear-review"
+        ]
+    }
+]
